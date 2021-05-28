@@ -3,6 +3,8 @@ package clase;
 import java.util.Scanner;
 
 /* programa que calcule el area y el perimetro del rectangulo*/
+//github
+
 
 public class AreaRectangulo {
 
